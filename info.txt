@@ -1,0 +1,9 @@
+Diego Alberto Tirado Murray
+
+03 de Febrero del 2026
+
+En esta actividad le estamos calando al git, pues a huevo 
+
+¿Que es un pull request?
+
+Un pull request es una solicitud para que los mantenedores de un repositorio revisen, discutan y potencialmente integren los cambios que has realizado en una rama separada del proyecto.
